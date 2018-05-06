@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/harri_000/Google Drive/Code/Java Workspace/lwjgl3/jar/lwjgl.jar" sourcepath="C:/Users/harri_000/Google Drive/Code/Java Workspace/lwjgl3/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/harri_000/Google%20Drive/Files/JavaWorkspace/lwjgl3/doc/javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
